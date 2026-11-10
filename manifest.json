@@ -1,0 +1,9 @@
+{
+  "name": "Reservas Rolde Zuiza",
+  "short_name": "Rolde Zuiza",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f1ea",
+  "theme_color": "#b5532f",
+  "icons": [{ "src": "icono.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }]
+}
